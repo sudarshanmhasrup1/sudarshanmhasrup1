@@ -1,4 +1,4 @@
-#### Few words on me
+### Introduction
 
 Hi! Thank you so much for checking out my GitHub profile. Let me introduce myself. I'm `Sudarshan Mhasrup`, and I like
 to solve real-world and business problems. There are many ways to do it, but I choose the way of software development.
@@ -13,3 +13,8 @@ multiplatform nature has enabled me to develop apps that run on mobile phones, d
 
 I craft user interfaces using `Jetpack Compose` for `Android` and `Compose Multiplatform` for `Kotlin Multiplatform`
 projects. I love the ecosystem, which helps me deliver solutions faster and more efficiently.
+
+### Contact me
+
+If you find my work interesting, want to leave feedback, work with me, collaborate on a project, or just have a
+conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sudarshanmhasrup@gmail.com).
