@@ -14,6 +14,26 @@ multiplatform nature has enabled me to develop apps that run on mobile phones, d
 I craft user interfaces using `Jetpack Compose` for `Android` and `Compose Multiplatform` for `Kotlin Multiplatform`
 projects. I love the ecosystem, which helps me deliver solutions faster and more efficiently.
 
+### QnA
+
+Do you want to know more about me? Don't worry — here are some questions and my answers, so you can see if we vibe as co-developers.  
+If you share the same preferences, then we’re even. Let’s work together and collaborate!
+
+**1) What's my favorite IDE?**
+- Android Studio (Basically any IDE that uses IntelliJ IDEA as its foundation).
+
+**2) What's my favorite programming language?**
+- Oh, come on. Do you even need to guess this? It's Kotlin.
+
+**3) What's my favorite UI toolkit?**
+- Compose. I really love and enjoy building UI with Compose.
+
+**4) What's my favorite build tool?**
+- Gradle, anytime.
+
+**5) Whose music do you enjoy the most?**
+- Fly By Midnight, haha.
+
 ### Contact me
 
 If you find my work interesting, want to leave feedback, work with me, collaborate on a project, or just have a
