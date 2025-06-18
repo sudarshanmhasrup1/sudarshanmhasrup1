@@ -14,6 +14,24 @@ multiplatform nature has enabled me to develop apps that run on mobile phones, d
 I craft user interfaces using `Jetpack Compose` for `Android` and `Compose Multiplatform` for `Kotlin Multiplatform`
 projects. I love the ecosystem, which helps me deliver solutions faster and more efficiently.
 
+### Active learning
+
+I prefer building projects while learning a specific technology. This way has always worked for me and turned out to be
+the most effective way to learn any new technology. I've created and dedicated special repositories that I use to
+maintain the source code and projects that I created while learning that technology. Here is the list of all
+repositories I created while learning specific technology.
+
+#### Exploring the world of Kotlin
+
+I'm absolutely in love with Kotlin - I think about it all the time, even in my sleep! This repository showcases
+everything I built on my journey through
+Kotlin. [View repository](https://github.com/sudarshanmhasrup1/exploring-the-world-of-kotlin)
+
+#### Exploring the world of Web
+
+The web is everywhere — even in my thoughts! This repository holds everything I built while learning web development.
+[View repository](https://github.com/sudarshanmhasrup1/exploring-the-world-of-web)
+
 ### QnA
 
 Do you want to know more about me? Don't worry — here are some questions and my answers, so you can see if we vibe as
